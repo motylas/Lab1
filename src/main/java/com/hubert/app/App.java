@@ -24,6 +24,6 @@ public class App {
 
         System.out.println("Pokonales bossa w turze " + tura);
 
-
+//siema
     }
 }
