@@ -22,7 +22,7 @@ public class App {
             System.out.println("Zycie bossa: " + boss.hp);
         }
 
-        System.out.println("Pokonales bossa w turze " + tura);
+        System.out.println("Nie Pokonales bossa w turze " + tura);
 
 
     }
